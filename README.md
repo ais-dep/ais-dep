@@ -1,9 +1,10 @@
-## Hi, i'm Ais
+Hi, I'm Ais — Web Developer 👋
 
-💻 Web developer & IoT enthusiast, learning HTML, CSS, JavaScript, python<br/>
-🔧 Exploring ESP32, Arduino, and real-time IoT integrations<br/>
-🚀 Building a portfolio to showcase web & IoT projects<br/>
-🎯 Passionate about responsive UI/UX and smart technology<br>
+💻 Frontend enthusiast learning HTML, CSS, JavaScript, and Python
+🎨 Passionate about building responsive, accessible, and user-friendly websites
+🚀 Currently working on personal portfolio and real-world web projects
+📚 Always learning — from layout techniques to modern JavaScript frameworks
+🌐 Open to collaboration on web-based apps and landing page design
 
 
 # 💻 Tech Stack:
