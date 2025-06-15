@@ -1,10 +1,10 @@
-Hi, I'm Ais — Web Developer 👋
+**Hi, I'm Ais — Web Developer 👋**
 
-💻 Frontend enthusiast learning HTML, CSS, JavaScript, and Python
-🎨 Passionate about building responsive, accessible, and user-friendly websites
-🚀 Currently working on personal portfolio and real-world web projects
-📚 Always learning — from layout techniques to modern JavaScript frameworks
-🌐 Open to collaboration on web-based apps and landing page design
+💻 Frontend enthusiast learning HTML, CSS, JavaScript, and Python</br>
+🎨 Passionate about building responsive, accessible, and user-friendly websites</br>
+🚀 Currently working on personal portfolio and real-world web projects</br>
+📚 Always learning — from layout techniques to modern JavaScript frameworks</br>
+🌐 Open to collaboration on web-based apps and landing page design</br>
 
 
 # 💻 Tech Stack:
